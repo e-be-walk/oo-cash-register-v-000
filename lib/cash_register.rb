@@ -1,7 +1,9 @@
 class CashRegister
 
-  def initialize(total)
-    @total = total
+  def add_item()
   end
+
+  def apply_discount()
+  end 
 
 end
